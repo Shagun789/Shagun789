@@ -1,6 +1,5 @@
 - 👋 Hi, I’m Shagun
 - 👀 I’m interested in Data Analytics,Data visualisation,Python,sql,powerBI,excel
-- 🌱 I’m currently learning Python core and libraries,excel
 - 💞️ I’m looking to collaborate on Data Analytics and Data visualisation Tool
 - 📫 How to reach me shagung7838@gmail.com
 - 😄 Pronouns: Her
